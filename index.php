@@ -31,6 +31,7 @@ echo '<h1> my age is : ' . $age . '</h1>';
 <button type="button" class="btn btn-dark"> Click Me </button>
 <button type="button" class="btn btn-success"> Click Me </button>
 
+<a href="https://www.heroku.com" target="blank"class="btn btn-danger"> Heroku.com<a/>
 
 
 <?php require 'includes/footer.php'
